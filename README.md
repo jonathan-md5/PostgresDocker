@@ -12,3 +12,4 @@ if there are any errors exit the container and type `sudo docker compose down -v
 
 ### Note
 ensure docker is installed onto your machine
+sql scripts where made with teammate: https://github.com/DavidCliff9/Project300/tree/main/Pro300 
